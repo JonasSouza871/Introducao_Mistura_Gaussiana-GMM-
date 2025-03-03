@@ -1,14 +1,9 @@
-
----
-
-```markdown
 # 🌟 Modelos de Mistura Gaussiana (GMM) 🌟
 
 Bem-vindo ao repositório sobre **Modelos de Mistura Gaussiana (Gaussian Mixture Models - GMM)**! Este projeto tem como objetivo explorar e demonstrar a aplicação de GMMs para diferentes cenários, como classificação, agrupamento (\textit{clustering}) e modelagem de densidade.  
 
 📊 Os gráficos foram gerados utilizando Python, enquanto a teoria e os cálculos foram documentados em LaTeX, com base em conceitos apresentados no livro clássico **"Pattern Recognition and Machine Learning"** de Christopher M. Bishop.
 
----
 
 ## 📂 Estrutura do Repositório
 
@@ -27,7 +22,6 @@ GMM_MISTURE_OF_GAUSSIANS/
 ├── Outros_projetos/                    # (Em breve) Novos exemplos e aplicações práticas
 ```
 
----
 
 ## 🔍 Sobre o Modelo de Mistura Gaussiana (GMM)
 
@@ -37,8 +31,6 @@ O **GMM** é uma técnica estatística que modela dados como uma combinação de
 - **Classificação Não Supervisionada**: Identificar padrões sem rótulos previamente definidos.
 
 O modelo assume que os dados vêm de uma mistura de distribuições normais, cada uma representando um grupo ou componente.
-
----
 
 ## 🛠️ Ferramentas Utilizadas
 
@@ -53,7 +45,6 @@ O modelo assume que os dados vêm de uma mistura de distribuições normais, cad
 - Utilizado para documentar a teoria e os cálculos passo a passo.
 - Ideal para apresentar fórmulas matemáticas e explicações detalhadas.
 
----
 
 ## 🚀 Como Executar
 
@@ -71,13 +62,11 @@ Os conceitos utilizados neste repositório foram baseados nos seguintes livros c
 
 2. Murphy, K. P. (2012). *Machine Learning: A Probabilistic Perspective*. MIT Press.  
    Um excelente recurso sobre aprendizado probabilístico com exemplos práticos.
----
 
 ## 📝 Contribuições
 
 Contribuições são bem-vindas! Caso tenha sugestões ou queira adicionar novos exemplos ao repositório, sinta-se à vontade para abrir um pull request ou criar uma issue.
 
----
 
 ## ✨ Autor
 
@@ -86,13 +75,4 @@ Este repositório foi criado com fins educacionais para explorar aplicações pr
 Email do autor : Jonassouza871@hotmail.com
 
 ```
-
----
-
-### Explicação das mudanças:
-1. **Introdução Geral**: Agora o foco está no modelo GMM como um todo, não apenas no projeto básico.
-2. **Estrutura Expandida**: Incluí a ideia de novos projetos futuros na pasta `Outros_projetos/`.
-3. **Emojis**: Adicionei emojis para tornar o README mais amigável e visualmente interessante.
-4. **Referências Detalhadas**: Destaquei o livro do Bishop como principal referência teórica.
-5. **Contribuições**: Incentivei contribuições futuras ao repositório.
 
