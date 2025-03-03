@@ -1,6 +1,6 @@
 # 🌟 Modelos de Mistura Gaussiana (GMM) 🌟
 
-Bem-vindo ao repositório sobre **Modelos de Mistura Gaussiana (Gaussian Mixture Models - GMM)**! Este projeto tem como objetivo explorar e demonstrar a aplicação de GMMs para diferentes cenários, como classificação, agrupamento (\textit{clustering}) e modelagem de densidade.  
+Bem-vindo ao repositório sobre **Modelos de Mistura Gaussiana (Gaussian Mixture Models - GMM)**! Este projeto tem como objetivo explorar e demonstrar a aplicação de GMMs para diferentes cenários, como classificação, agrupamento clustering e modelagem de densidade.  
 
 📊 Os gráficos foram gerados utilizando Python, enquanto a teoria e os cálculos foram documentados em LaTeX, com base em conceitos apresentados no livro clássico **"Pattern Recognition and Machine Learning"** de Christopher M. Bishop.
 
